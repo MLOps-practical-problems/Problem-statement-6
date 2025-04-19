@@ -15,3 +15,10 @@ This repository is a part of my MLOps practice exercises. The objective of this 
 - Titanic Dataset (from Kaggle).
 - It includes information about passengers such as:
   - Age, Sex, Fare, Class, Embarkation port, Survival status, etc.
+
+
+### Results
+- <a href="./results/confusion_matrix_logistic_regression.png" target="_blank">Logistic Regression - Confusion Matrix</a>
+- <a href="./results/confusion_matrix_random_forest.png" target="_blank">Random Forest - Confusion Matrix</a>
+- <a href="./results/precision_recall_logistic_regression.png" target="_blank">Logistic Regression - Precision-Recall Curve</a>
+- <a href="./results/precision_recall_random_forest.png" target="_blank">Random Forest - Precision-Recall Curve</a>
