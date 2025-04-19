@@ -1,6 +1,6 @@
 # MLOps Practice Project
 
-## Problem Statement 5: Visualizing Model Performance - Titanic Dataset
+## Problem Statement 6: Visualizing Model Performance - Titanic Dataset
 
 This repository is a part of my MLOps practice exercises. The objective of this project is to train two binary classification models on the Titanic dataset, visualize their performance, and compare them.
 
